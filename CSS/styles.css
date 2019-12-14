@@ -1,0 +1,81 @@
+                                                                                                            body {
+                                                                                                                font-family: "Open Sans", sans-serif;
+                                                                                                            }
+                                                                                                            
+                                                                                                            h1,
+                                                                                                            h2,
+                                                                                                            h3 {
+                                                                                                                font-family: "Lobster", cursive;
+                                                                                                            }
+                                                                                                            
+                                                                                                            h2 {
+                                                                                                                color: #FFB6C1;
+                                                                                                            }
+                                                                                                            
+                                                                                                            h3 {
+                                                                                                                color: gray;
+                                                                                                            }
+                                                                                                            
+                                                                                                            header h2 {
+                                                                                                                color: #CEC8FF;
+                                                                                                            }
+                                                                                                            
+                                                                                                            footer {
+                                                                                                                background: lightpink;
+                                                                                                                padding: 20px 0;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .jumbotron {
+                                                                                                                padding: 30px;
+                                                                                                                background: #FFB6C1;
+                                                                                                                color: gray;
+                                                                                                                margin: 0;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .row-content {
+                                                                                                                padding: 50px 0;
+                                                                                                                border-bottom: 1px ridge;
+                                                                                                                min-height: 200;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .navbar {
+                                                                                                                background-color: gray;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .fa-instagram {
+                                                                                                                color: gray;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .fa-facebook {
+                                                                                                                color: gray;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .fa-twitter {
+                                                                                                                color: gray;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .fa-youtube {
+                                                                                                                color: gray;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .fa-phone {
+                                                                                                                color: gray;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .fa-envelope {
+                                                                                                                color: gray;
+                                                                                                            }
+                                                                                                            
+                                                                                                            .carousel-caption {
+                                                                                                                background-color: rgba(0, 0, 0, 0.5);
+                                                                                                            }
+                                                                                                            
+                                                                                                            .carousel {
+                                                                                                                border: solid lightpink;
+                                                                                                            }
+                                                                                                            
+                                                                                                            #carouselButton {
+                                                                                                                position: absolute;
+                                                                                                                right: 0;
+                                                                                                                bottom: 0;
+                                                                                                            }
